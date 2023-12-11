@@ -1,0 +1,4 @@
+1. Open text editor/writer and type your program.
+2. Then save your program using "program_name.cpp" and click on save.
+3. Next go to terminal and type "g++ program_name.cpp -lgraph" then press enter.
+4. then type "./a.out" (It`s used to display a graphical promt to display output)
