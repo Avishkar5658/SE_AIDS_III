@@ -1,3 +1,7 @@
+/*Write a C++ Program to draw a given pattern. Use 
+DDA line and Bresenham’s circle drawing 
+algorithm. Apply the concept of encapsulation */
+
 #include<iostream>
 #include<stdlib.h>
 #include<math.h>
